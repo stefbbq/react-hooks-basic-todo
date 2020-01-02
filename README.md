@@ -1,7 +1,3 @@
-## Skillhire React Starter Application
-
-This project is a base application to be used for code challenges with [Skillhire](https://www.skillhire.com).
-
 ### `npm install`
 
 Install all the dependencies for this project.
